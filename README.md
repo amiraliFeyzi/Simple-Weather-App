@@ -1,3 +1,7 @@
 # Simple-Weather-App
 It's a simple weatherapp
-sklfjlakjfkjfsa;fjlajfla;jafsd
+It is a simple weather program and features used:
+RxJava3
+Retrofit
+MVVM
+
